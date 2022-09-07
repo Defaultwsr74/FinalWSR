@@ -48,7 +48,7 @@ resource "google_compute_instance" "vm" {
 
 	boot_disk {
 		initialize_params {
-			image = "image-1"
+			image = " ... "
 		}
 	}
 
