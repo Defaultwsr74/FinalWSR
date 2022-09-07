@@ -12,6 +12,5 @@
 * Уничтожение инфраструктуры
 > Филин Евгений, Челябинская Область
 ### Terraform Script - main.tf
-> Значение Image находится в main.tf
-
-> Значение Project находится в variables.tf
+==Значение Image находится в main.tf==
+==Значение Project находится в variables.tf==
