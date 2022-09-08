@@ -6,7 +6,7 @@ resource "google_compute_firewall" "cml-rule" {
     		ports = ["9090"]
   	}
 	target_tags = ["cml-console"]
-  		source_ranges = ["0.0.0.0/0"]
+  	source_ranges = ["0.0.0.0/0"]
 	}
 
 resource "google_compute_firewall" "ssh-rule" {
